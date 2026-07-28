@@ -1,3 +1,4 @@
+# Source of truth: SCRIPTS/githubactions. Generated copies are overwritten.
 name: Test
 
 on:
